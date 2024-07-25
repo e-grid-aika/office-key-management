@@ -38,5 +38,5 @@ npm install -D esbuild esbuild-gas-plugin
 ```
 
 # 参考
-TypeScript+clasp+esbuildでGASのローカル開発をもっと便利に[https://zenn.dev/funteractiveinc/articles/776b5812833475#esbuild%E3%81%AE%E5%88%A9%E7%94%A8%E3%81%AB%E3%81%A4%E3%81%84%E3%81%A6]
+[TypeScript+clasp+esbuildでGASのローカル開発をもっと便利に](https://zenn.dev/funteractiveinc/articles/776b5812833475#esbuild%E3%81%AE%E5%88%A9%E7%94%A8%E3%81%AB%E3%81%A4%E3%81%84%E3%81%A6)
 
