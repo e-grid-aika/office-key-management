@@ -5,7 +5,6 @@ esbuild
   .build({
     entryPoints: ["./src/main.ts"],
     bundle: true,
-    minify: true,
     outfile: "./dist/main.js",
     plugins: [GasPlugin],
   })
